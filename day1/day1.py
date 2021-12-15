@@ -1,3 +1,5 @@
+#day 1 of the advent of code in Python. Just to update the python skills.
+
 numbers = [int(line) for line in open('day1.txt', 'r').readlines()]
 
 count = sum(
