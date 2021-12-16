@@ -1,3 +1,5 @@
+#day2 of the advent of code 2021. Python skill test 16-12-2021 Part1 & Part 2
+
 data = open("day2.txt")
 #part1
 pos = 0
