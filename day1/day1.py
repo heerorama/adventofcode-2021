@@ -1,7 +1,5 @@
 #day 1 of the advent of code in Python. Just to update the python skills.
 
-
-
 def challenge1a(numbers):
     count = sum(
         numbers[i] > numbers[i - 1]
